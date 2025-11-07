@@ -1,0 +1,17 @@
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+} 
+
+body{
+    color: white;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+}
